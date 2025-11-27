@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1097181536705-4lvb8cdl8eqr4j25v3c499ja4o6nsv3a.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD3B2so4bbFl0dRW8mdYWho8PFb811-O7E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1097181536705</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.app.tsmyanmar</string>
+	<key>PROJECT_ID</key>
+	<string>userthai2d3d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>userthai2d3d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1097181536705:ios:727f4bbbd3a2608ba44f40</string>
+	<key>DATABASE_URL</key>
+	<string>https://userthai2d3d-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+</dict>
+</plist>

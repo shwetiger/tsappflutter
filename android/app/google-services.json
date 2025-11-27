@@ -1,0 +1,379 @@
+{
+  "project_info": {
+    "project_number": "1097181536705",
+    "firebase_url": "https://userthai2d3d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "userthai2d3d",
+    "storage_bucket": "userthai2d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:56575b859fc34355a44f40",
+        "android_client_info": {
+          "package_name": "com.app.thaisinnewsmyanmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:c32bac4a06453b5ba44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.thai2d3d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-uthaomvaue7jmjfvcpupsr37b248b3bg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2d3d",
+            "certificate_hash": "fc002471b8f4cca6eb3449c34c37a4a31b8b2d77"
+          }
+        },
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:bb9588fc19e3eeb5a44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.thai2d3dNewApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-4gik5cjkugo9tsn2js7oqpbrmui5gpuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2d3dNewApp",
+            "certificate_hash": "3f4a8fd614c6ea49e9f4365e77481111d5ec2030"
+          }
+        },
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:4cb4119ddf27c7fba44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.thai2d3dgame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-e2u6jnhhovjik2ar5uo2o4jngd1brluq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2d3dgame",
+            "certificate_hash": "fc002471b8f4cca6eb3449c34c37a4a31b8b2d77"
+          }
+        },
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:aa556b5d1d71d5dea44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.thai2d3dnew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-690fcfdqid38km81anm8g3d5m8un2r8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2d3dnew",
+            "certificate_hash": "3f4a8fd614c6ea49e9f4365e77481111d5ec2030"
+          }
+        },
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:93f155022aafff4ca44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.thai2d3dpronew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-e6g4tmvg603q5u9hnfr203jj84bnpvqi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2d3dpronew",
+            "certificate_hash": "3f4a8fd614c6ea49e9f4365e77481111d5ec2030"
+          }
+        },
+        {
+          "client_id": "1097181536705-ml3tloto3csafcqnkh163v917seg4mc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.thai2d3dpronew",
+            "certificate_hash": "fc002471b8f4cca6eb3449c34c37a4a31b8b2d77"
+          }
+        },
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:452c6f624b95140aa44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.thaisinmyanmar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097181536705:android:9f602e949c6e5ae7a44f40",
+        "android_client_info": {
+          "package_name": "com.mobile.userthai2D3D"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1097181536705-4lvb8cdl8eqr4j25v3c499ja4o6nsv3a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.userthai2D3D",
+            "certificate_hash": "9d8807ac5bc7965e0d55e2fb0e6ce1f620a4c620"
+          }
+        },
+        {
+          "client_id": "1097181536705-6bhvrm2t9292ud45drmcq8nod78k45im.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.userthai2D3D",
+            "certificate_hash": "fc002471b8f4cca6eb3449c34c37a4a31b8b2d77"
+          }
+        },
+        {
+          "client_id": "1097181536705-lnl6esq0oerpdr858gdcoaaq1pcqch8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.userthai2D3D",
+            "certificate_hash": "ca2fe9c70b812fe229a211353c628cdc8c2a2a1a"
+          }
+        },
+        {
+          "client_id": "1097181536705-ueu37kc9re08qo0a112c392ibj9cn9s9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobile.userthai2D3D",
+            "certificate_hash": "e07909829c3ae9e29e17c3a03b239c7875fa4f78"
+          }
+        },
+        {
+          "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1nisYEBRZqZ2JedFc0852OrbWWu0aJuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1097181536705-9kbc3l0fj80hk67nudvfjurrd1mhdo7i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1097181536705-8k5ajq9j8pbqaj2tptdr5mjiktnqrd89.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mobile.userthai2D3D"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
